@@ -1,0 +1,20 @@
+{
+  "contributors": [
+    "Ken Stanley <support@dohpaz.dev>"
+  ],
+  "dependencies": {},
+  "description": "The plugin infrastructure for Quarkboard.",
+  "devDependencies": {},
+  "keywords": [
+    "smart mirror",
+    "quarkboard",
+    "enterprise",
+    "homebrew",
+    "quarkboard plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/plugin.js",
+  "name": "quarkboard-plugin",
+  "repository": "https://github.com/quarkboard/quarkboard-plugin.git",
+  "version": "0.1.0"
+}
