@@ -5,6 +5,9 @@
   "dependencies": {},
   "description": "The plugin infrastructure for Quarkboard.",
   "devDependencies": {},
+  "engines": {
+    "node": ">=11.13.0"
+  },
   "keywords": [
     "quarkboard plugin",
     "quarkboard",
