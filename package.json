@@ -16,6 +16,7 @@
   "license": "MIT",
   "main": "lib/plugin.js",
   "name": "@quarkboard/quarkboard-plugin",
+  "private": false,
   "repository": "https://github.com/quarkboard/quarkboard-plugin.git",
   "version": "0.1.0"
 }
