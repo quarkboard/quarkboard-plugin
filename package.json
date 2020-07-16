@@ -6,11 +6,9 @@
   "description": "The plugin infrastructure for Quarkboard.",
   "devDependencies": {},
   "keywords": [
-    "smart mirror",
+    "quarkboard plugin",
     "quarkboard",
-    "enterprise",
-    "homebrew",
-    "quarkboard plugin"
+    "smart mirror"
   ],
   "license": "MIT",
   "main": "lib/plugin.js",
